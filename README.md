@@ -1,4 +1,4 @@
-# USGS-Earthquake-Mini-Pipeline
+# USGS-Earthquake-Pipeline
 
 Daily automated ETL pipeline that ingests recent earthquake events from the USGS Earthquake API, processes the data, and loads it into a PostgreSQL database using Apache Airflow.
 
